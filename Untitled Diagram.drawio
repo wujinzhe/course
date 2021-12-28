@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T07:21:45.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="Uq2Tjx-i51iRskghr_Yz" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T07:23:32.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ZNQbLkF_0M0qRxlkvZEt" version="16.1.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -156,6 +156,20 @@
         </mxCell>
         <mxCell id="XrmSzS0onSl16h3eU5Rh-47" value="网络的请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HKb51zCs69CQTgwfbYZs" name="render process">
+    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="89i6XWNFoZizcu6RGG9E-0" />
+        <mxCell id="89i6XWNFoZizcu6RGG9E-1" parent="89i6XWNFoZizcu6RGG9E-0" />
+        <mxCell id="89i6XWNFoZizcu6RGG9E-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="89i6XWNFoZizcu6RGG9E-1">
+          <mxGeometry x="150" y="800" width="460" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="7qHdefGm9lMwMHd9xBgf-0" value="渲染进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="89i6XWNFoZizcu6RGG9E-1">
+          <mxGeometry x="170" y="750" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
