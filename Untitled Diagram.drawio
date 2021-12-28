@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T07:23:32.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ZNQbLkF_0M0qRxlkvZEt" version="16.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-28T07:28:45.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="YH8JTDdpLMGNAoiBGIZ1" version="16.1.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1892" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -139,8 +139,8 @@
         <mxCell id="XrmSzS0onSl16h3eU5Rh-35" value="&lt;strong class=&quot;hq fz&quot; style=&quot;font-style: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; box-sizing: inherit ; font-weight: 700 ; font-family: &amp;#34;charter&amp;#34; , &amp;#34;georgia&amp;#34; , &amp;#34;cambria&amp;#34; , &amp;#34;times new roman&amp;#34; , &amp;#34;times&amp;#34; , serif ; color: rgb(41 , 41 , 41) ; font-size: 21px ; letter-spacing: -0.063px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;box-sizing: inherit ; vertical-align: inherit&quot;&gt;&lt;font style=&quot;box-sizing: inherit ; vertical-align: inherit&quot;&gt;Channel管道&lt;/font&gt;&lt;/font&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="475" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XrmSzS0onSl16h3eU5Rh-41" value="每个线程都有自己的对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="20" width="320" height="30" as="geometry" />
+        <mxCell id="XrmSzS0onSl16h3eU5Rh-41" value="每个线程都有自己的对象，每个进程都有自己的主线程和UI线程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="20" width="710" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XrmSzS0onSl16h3eU5Rh-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XrmSzS0onSl16h3eU5Rh-43" target="XrmSzS0onSl16h3eU5Rh-32">
           <mxGeometry relative="1" as="geometry" />
