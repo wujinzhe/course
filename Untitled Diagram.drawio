@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T08:29:53.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="7sd_DuEyF7qFpv399ccV" version="16.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-04-03T08:32:10.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="i94SkXSSu7GqLQcckDj9" version="16.6.6" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1407,7 +1407,7 @@
         <mxCell id="36iWVOdMCAvA_GiiL64e-88" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="36iWVOdMCAvA_GiiL64e-1">
           <mxGeometry x="480" y="490" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="36iWVOdMCAvA_GiiL64e-89" value="&lt;font style=&quot;font-size: 13px ; line-height: 2&quot;&gt;归并排序无论如何都会是只有一个数组先遍历完，然后另外一个数组对应的指针则会在下一个需要处理的数字上&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="36iWVOdMCAvA_GiiL64e-1">
+        <mxCell id="36iWVOdMCAvA_GiiL64e-89" value="&lt;font style=&quot;line-height: 2 ; font-size: 16px&quot;&gt;归并排序无论如何都会是只有一个数组先遍历完，然后另外一个数组对应的指针则会在下一个需要处理的数字上&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="36iWVOdMCAvA_GiiL64e-1">
           <mxGeometry x="-100" y="490" width="320" height="170" as="geometry" />
         </mxCell>
         <mxCell id="36iWVOdMCAvA_GiiL64e-91" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;shadow=0;fontSize=28;" vertex="1" parent="36iWVOdMCAvA_GiiL64e-1">
@@ -1668,6 +1668,9 @@
         </mxCell>
         <mxCell id="36iWVOdMCAvA_GiiL64e-155" value="logn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" vertex="1" parent="36iWVOdMCAvA_GiiL64e-1">
           <mxGeometry x="-90" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36iWVOdMCAvA_GiiL64e-156" value="&lt;p style=&quot;line-height: 1.8&quot;&gt;归并排序的最关键的是，找到拆分点，并且有left, right范围，然后根据拆分点和left, right 将数组分为两部分，然后使用辅助的数组将这两部分进行合并&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" vertex="1" parent="36iWVOdMCAvA_GiiL64e-1">
+          <mxGeometry x="-90" y="160" width="290" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
