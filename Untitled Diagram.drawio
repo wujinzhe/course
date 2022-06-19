@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T01:16:51.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DM3R6eUM-gFoFgu-ufMa" version="20.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-06-19T01:38:02.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nuZuEUTB-YE74kzUPSaD" version="20.0.1" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1884,11 +1884,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wXiCD8Fx-ZPIYZHcPWIq" name="Page-13">
-    <mxGraphModel dx="1426" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-51" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1130" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-50" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="920" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-48" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="670" width="210" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-47" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="360" width="220" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-1" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tuf4cuHKGBy5D_lkiVBu-2" value="入口文件&lt;br&gt;src/core/instance/index.js" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1919,16 +1931,133 @@
           <mxGeometry x="270" y="300" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tuf4cuHKGBy5D_lkiVBu-10" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;stateMixin&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(Vue)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
-          <mxGeometry x="270" y="370" width="170" height="40" as="geometry" />
+          <mxGeometry x="270" y="480" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tuf4cuHKGBy5D_lkiVBu-11" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;eventsMixin&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(Vue)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="180" height="40" as="geometry" />
+          <mxGeometry x="265" y="770" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tuf4cuHKGBy5D_lkiVBu-12" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;lifecycleMixin&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(Vue)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
-          <mxGeometry x="270" y="520" width="210" height="40" as="geometry" />
+          <mxGeometry x="260" y="990" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tuf4cuHKGBy5D_lkiVBu-13" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;renderMixin&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(Vue)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
-          <mxGeometry x="270" y="590" width="180" height="40" as="geometry" />
+          <mxGeometry x="265" y="1179" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-14" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#ABB2BF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="319.5" as="sourcePoint" />
+            <mxPoint x="160" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-15" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;_init&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="300" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-16" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#ABB2BF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="319.5" as="sourcePoint" />
+            <mxPoint x="-160" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-540" y="-210" width="353" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-17" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#ABB2BF;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry width="340.3581267217631" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-18" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;initLifecycle&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(vm)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;align=left;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="61.26446280991736" y="40" width="184.76584022038568" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-19" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;initEvents&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(vm)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;align=left;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="58.34710743801653" y="100" width="155.59228650137743" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-20" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;initRender&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(vm)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;align=left;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="61.26446280991736" y="160" width="155.59228650137743" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-21" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;callHook&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(vm, &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 195, 121);&quot;&gt;&#39;beforeCreate&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;align=left;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="61.26446280991736" y="220" width="291.73553719008265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-22" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;initInjections&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(vm)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;align=left;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="61.26446280991736" y="280" width="194.4903581267218" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-23" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;initState&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(vm)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;align=left;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="63.209366391184574" y="334.5" width="145.86776859504133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-24" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;initProvide&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(vm)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;align=left;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="63.209366391184574" y="390" width="165.3168044077135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-25" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;callHook&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(vm, &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 195, 121);&quot;&gt;&#39;created&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;align=left;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="63.209366391184574" y="450" width="243.11294765840222" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-26" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;vm.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;$mount&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;(vm.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;$options&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;el&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;align=left;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="63.209366391184574" y="500" width="262.56198347107437" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-27" value="_init 运行时执行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ABB2BF;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry width="106.96969696969697" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-29" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#ABB2BF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="499.5" as="sourcePoint" />
+            <mxPoint x="160" y="499.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-30" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;$data&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="370" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-31" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;$props&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="420" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-32" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;$set&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="470" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-33" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;$delete&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-34" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;$watch&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="570" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-35" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;$on&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="670" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-36" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;$once&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="730" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-37" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;$off&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="790" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-38" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;$emit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="850" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-39" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#ABB2BF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="790" as="sourcePoint" />
+            <mxPoint x="160" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-40" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;_update&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="930" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-41" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;$foreceUpdate&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="990" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-42" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;$destroy&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1050" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-43" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#ABB2BF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1010" as="sourcePoint" />
+            <mxPoint x="160" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-44" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;font color=&quot;#61afef&quot;&gt;$nextTick&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1144.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-45" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(229, 192, 123);&quot;&gt;Vue&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;prototype&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 175, 239);&quot;&gt;_render&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1193.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-46" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#ABB2BF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1190" as="sourcePoint" />
+            <mxPoint x="160" y="1190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
