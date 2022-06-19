@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T07:06:35.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ZfrgyHkyYan5OppuTKAL" version="16.6.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-19T01:11:09.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="esKCFKOmNhScvS4PRNQf" version="20.0.1" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1185,8 +1185,117 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="euqyDHoHXYuR05XTahVf" name="Page-11">
+    <mxGraphModel dx="1426" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="mPR292OF6C-6JeojLbmN-0" />
+        <mxCell id="mPR292OF6C-6JeojLbmN-1" parent="mPR292OF6C-6JeojLbmN-0" />
+        <mxCell id="mPR292OF6C-6JeojLbmN-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=default;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry y="-10" width="930" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="130" y="150" width="110" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-4" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="140" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-5" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="140" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-6" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="140" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-7" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="140" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-8" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="140" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-9" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="140" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-10" value="等待函数队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="120" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="100" as="sourcePoint" />
+            <mxPoint x="260" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-12" value="队尾" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="50" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-13" value="队头" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="50" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-14" value="事件入队" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="270" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-15" value="注意：队列中的一定是函数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="90" y="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="380" y="150" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-17" value="执行队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="385" y="110" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="450" as="sourcePoint" />
+            <mxPoint x="240" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-19" value="事件出队" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="210" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="390" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-21" value="进入执行队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="400" y="380" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="280" y="460" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-23" value="检查点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="280" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-24" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;1. 等待队列是否有，如果等待队列没有说明完了&lt;/p&gt;&lt;p style=&quot;line-height: 1.6&quot;&gt;2. 执行队列是否已满，未满则从等待队列中取出事件，添加到执行队列中，并执行&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="280" y="490" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-25" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="390" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="mPR292OF6C-6JeojLbmN-1" source="mPR292OF6C-6JeojLbmN-26" target="mPR292OF6C-6JeojLbmN-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="185" />
+              <mxPoint x="810" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-26" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="390" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-29" value="当执行队列中的事件执行完后，继续执行检查点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="580" y="205" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-30" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;  &lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;// check 包含了出队 、入队  （等待队列和执行队列的出队和入队都在这个check函数里面了）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #c678dd&quot;&gt;function&lt;/span&gt; &lt;span style=&quot;color: #61afef&quot;&gt;check&lt;/span&gt;() {&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c678dd&quot;&gt;if&lt;/span&gt; (waitQueue.&lt;span style=&quot;color: #e06c75&quot;&gt;length&lt;/span&gt; &lt;span style=&quot;color: #56b6c2&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; count &lt;span style=&quot;color: #56b6c2&quot;&gt;&amp;lt;&lt;/span&gt; maxNumber) {&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;      waitQueue.&lt;span style=&quot;color: #61afef&quot;&gt;shift&lt;/span&gt;()().&lt;span style=&quot;color: #61afef&quot;&gt;then&lt;/span&gt;(() &lt;span style=&quot;color: #c678dd&quot;&gt;=&amp;gt;&lt;/span&gt; {&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;// 需要先减一&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;// 再校验&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;        count&lt;span style=&quot;color: #56b6c2&quot;&gt;--&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #61afef&quot;&gt;check&lt;/span&gt;()&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;      })&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;      count&lt;span style=&quot;color: #56b6c2&quot;&gt;++&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;    } &lt;span style=&quot;color: #c678dd&quot;&gt;else&lt;/span&gt; &lt;span style=&quot;color: #c678dd&quot;&gt;if&lt;/span&gt; (count &lt;span style=&quot;color: #56b6c2&quot;&gt;===&lt;/span&gt; &lt;span style=&quot;color: #d19a66&quot;&gt;0&lt;/span&gt;) {&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;// 没有执行队列了，才说明所有的任务都已经完成了&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #61afef&quot;&gt;callback&lt;/span&gt;()&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;      &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;  }&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#282C34;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="210" y="630" width="470" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="mPR292OF6C-6JeojLbmN-31" value="&lt;font style=&quot;font-size: 18px ; line-height: 2.4&quot;&gt;整个调度的核心是属于检查点的编写，每次等待队列有更新时，我们需要执行检查点，如果有执行事件时，需要执行事件，并将事件添加到执行队列，当执行完一个事件时，我们需要继续执行检查点，依次下去&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
+          <mxGeometry x="40" y="1010" width="710" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="mreZaCiXX37NaNZGodGK" name="Page-10">
-    <mxGraphModel dx="2253" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="36iWVOdMCAvA_GiiL64e-0" />
         <mxCell id="36iWVOdMCAvA_GiiL64e-1" parent="36iWVOdMCAvA_GiiL64e-0" />
@@ -1675,211 +1784,110 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="euqyDHoHXYuR05XTahVf" name="Page-11">
-    <mxGraphModel dx="1426" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="mPR292OF6C-6JeojLbmN-0" />
-        <mxCell id="mPR292OF6C-6JeojLbmN-1" parent="mPR292OF6C-6JeojLbmN-0" />
-        <mxCell id="mPR292OF6C-6JeojLbmN-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=default;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry y="-10" width="930" height="1180" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="130" y="150" width="110" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-4" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="140" y="160" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-5" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="140" y="200" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-6" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="140" y="240" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-7" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="140" y="280" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-8" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="140" y="320" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-9" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="140" y="360" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-10" value="等待函数队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="120" y="100" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="100" as="sourcePoint" />
-            <mxPoint x="260" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-12" value="队尾" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="50" y="160" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-13" value="队头" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="50" y="360" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-14" value="事件入队" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="270" y="60" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-15" value="注意：队列中的一定是函数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="90" y="50" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="380" y="150" width="110" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-17" value="执行队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="385" y="110" width="95" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="450" as="sourcePoint" />
-            <mxPoint x="240" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-19" value="事件出队" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="210" y="420" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="390" as="sourcePoint" />
-            <mxPoint x="400" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-21" value="进入执行队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="400" y="380" width="96" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="280" y="460" width="160" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-23" value="检查点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="280" y="460" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-24" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;1. 等待队列是否有，如果等待队列没有说明完了&lt;/p&gt;&lt;p style=&quot;line-height: 1.6&quot;&gt;2. 执行队列是否已满，未满则从等待队列中取出事件，添加到执行队列中，并执行&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="280" y="490" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-25" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="390" y="220" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="mPR292OF6C-6JeojLbmN-1" source="mPR292OF6C-6JeojLbmN-26" target="mPR292OF6C-6JeojLbmN-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="810" y="185" />
-              <mxPoint x="810" y="543" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-26" value="fn" style="rounded=0;whiteSpace=wrap;html=1;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="390" y="170" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-29" value="当执行队列中的事件执行完后，继续执行检查点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="580" y="205" width="190" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-30" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;  &lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;// check 包含了出队 、入队  （等待队列和执行队列的出队和入队都在这个check函数里面了）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;  &lt;span style=&quot;color: #c678dd&quot;&gt;function&lt;/span&gt; &lt;span style=&quot;color: #61afef&quot;&gt;check&lt;/span&gt;() {&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c678dd&quot;&gt;if&lt;/span&gt; (waitQueue.&lt;span style=&quot;color: #e06c75&quot;&gt;length&lt;/span&gt; &lt;span style=&quot;color: #56b6c2&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; count &lt;span style=&quot;color: #56b6c2&quot;&gt;&amp;lt;&lt;/span&gt; maxNumber) {&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;      waitQueue.&lt;span style=&quot;color: #61afef&quot;&gt;shift&lt;/span&gt;()().&lt;span style=&quot;color: #61afef&quot;&gt;then&lt;/span&gt;(() &lt;span style=&quot;color: #c678dd&quot;&gt;=&amp;gt;&lt;/span&gt; {&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;// 需要先减一&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;// 再校验&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;        count&lt;span style=&quot;color: #56b6c2&quot;&gt;--&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #61afef&quot;&gt;check&lt;/span&gt;()&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;      })&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;      count&lt;span style=&quot;color: #56b6c2&quot;&gt;++&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;    } &lt;span style=&quot;color: #c678dd&quot;&gt;else&lt;/span&gt; &lt;span style=&quot;color: #c678dd&quot;&gt;if&lt;/span&gt; (count &lt;span style=&quot;color: #56b6c2&quot;&gt;===&lt;/span&gt; &lt;span style=&quot;color: #d19a66&quot;&gt;0&lt;/span&gt;) {&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;// 没有执行队列了，才说明所有的任务都已经完成了&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #61afef&quot;&gt;callback&lt;/span&gt;()&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;      &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;div&gt;  }&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#282C34;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="210" y="630" width="470" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="mPR292OF6C-6JeojLbmN-31" value="&lt;font style=&quot;font-size: 18px ; line-height: 2.4&quot;&gt;整个调度的核心是属于检查点的编写，每次等待队列有更新时，我们需要执行检查点，如果有执行事件时，需要执行事件，并将事件添加到执行队列，当执行完一个事件时，我们需要继续执行检查点，依次下去&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPR292OF6C-6JeojLbmN-1" vertex="1">
-          <mxGeometry x="40" y="1010" width="710" height="180" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="UxuOEDXwCqVmroOYCLDY" name="Page-12">
-    <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aMfSWwIFYKmyxZ0qNlF1-0" />
         <mxCell id="aMfSWwIFYKmyxZ0qNlF1-1" parent="aMfSWwIFYKmyxZ0qNlF1-0" />
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-41" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-41" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="30" y="40" width="1440" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;" edge="1" parent="aMfSWwIFYKmyxZ0qNlF1-1" source="aMfSWwIFYKmyxZ0qNlF1-2" target="aMfSWwIFYKmyxZ0qNlF1-17">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" source="aMfSWwIFYKmyxZ0qNlF1-2" target="aMfSWwIFYKmyxZ0qNlF1-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-2" value="Hook" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-2" value="Hook" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="90" y="180" width="160" height="200" as="geometry">
             <mxRectangle x="240" y="210" width="60" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-3" value="_args&#xa;name&#xa;taps&#xa;interceptors" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-2">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-3" value="_args&#xa;name&#xa;taps&#xa;interceptors" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-2" vertex="1">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-2">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-2" vertex="1">
           <mxGeometry y="100" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-5" value="compile&#xa;_tap&#xa;tap&#xa;tapAsync&#xa;tapPromise&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-2">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-5" value="compile&#xa;_tap&#xa;tap&#xa;tapAsync&#xa;tapPromise&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-2" vertex="1">
           <mxGeometry y="108" width="160" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-16" value="HookCodeFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-16" value="HookCodeFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=default;labelBackgroundColor=none;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="360" y="180" width="160" height="240" as="geometry">
             <mxRectangle x="240" y="210" width="60" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-17" value="_args&#xa;options&#xa;config" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-16">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-17" value="_args&#xa;options&#xa;config" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-16" vertex="1">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-16">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-16" vertex="1">
           <mxGeometry y="100" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-19" value="create()&#xa;setup()&#xa;callTap()&#xa;callTapsSeries()&#xa;callTapsLooping()&#xa;callTapsParallel()&#xa;contentWithInterceptors()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-16">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-19" value="create()&#xa;setup()&#xa;callTap()&#xa;callTapsSeries()&#xa;callTapsLooping()&#xa;callTapsParallel()&#xa;contentWithInterceptors()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-16" vertex="1">
           <mxGeometry y="108" width="160" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-21" value="AyncHookCodeFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-21" value="AyncHookCodeFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="680" y="120" width="160" height="126" as="geometry">
             <mxRectangle x="240" y="210" width="60" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-21">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-21" vertex="1">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-24" value="content" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-21">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-24" value="content" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-21" vertex="1">
           <mxGeometry y="34" width="160" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-25" value="SyncLoopHookCodeFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-25" value="SyncLoopHookCodeFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="680" y="280" width="160" height="126" as="geometry">
             <mxRectangle x="240" y="210" width="60" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-27" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-25">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-27" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-25" vertex="1">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-28" value="content" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-25">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-28" value="content" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-25" vertex="1">
           <mxGeometry y="34" width="160" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-31" value="SyncBailHookCodeFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-31" value="SyncBailHookCodeFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="680" y="440" width="160" height="126" as="geometry">
             <mxRectangle x="240" y="210" width="60" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-32" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-31">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-32" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-31" vertex="1">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-33" value="content" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-31">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-33" value="content" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="aMfSWwIFYKmyxZ0qNlF1-31" vertex="1">
           <mxGeometry y="34" width="160" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-35" value="抽象工厂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-35" value="抽象工厂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="414" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-36" value="抽象类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-36" value="抽象类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="150" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-37" value="具体工厂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-37" value="具体工厂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="730" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-38" value="抽象工厂里面有create方法，是生产产品的，也就是产生具体的钩子" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-38" value="抽象工厂里面有create方法，是生产产品的，也就是产生具体的钩子" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="350" y="480" width="180" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-39" value="不同的钩子工厂需要实例化钩子的时候，也是依赖抽象工厂中的create方法，但是create方法会依赖一个content函数，所以每个具体工厂实现自己的content函数，那么具体工厂在调用create函数时就会生产属于自己的钩子产品" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-39" value="不同的钩子工厂需要实例化钩子的时候，也是依赖抽象工厂中的create方法，但是create方法会依赖一个content函数，所以每个具体工厂实现自己的content函数，那么具体工厂在调用create函数时就会生产属于自己的钩子产品" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="660" y="610" width="520" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-40" value="&lt;p style=&quot;line-height: 2.2&quot;&gt;我们可以从tapable的例子中可以看到，我们如果要实现一个工厂方法模式，基本上一定要有个抽象工厂类和具体工厂类，具体工厂类需要继承抽象工厂类，并且使用抽象工厂类中的方法来创建实例，或者重写冲抽象工厂类的创建实例的方法&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-40" value="&lt;p style=&quot;line-height: 2.2&quot;&gt;我们可以从tapable的例子中可以看到，我们如果要实现一个工厂方法模式，基本上一定要有个抽象工厂类和具体工厂类，具体工厂类需要继承抽象工厂类，并且使用抽象工厂类中的方法来创建实例，或者重写冲抽象工厂类的创建实例的方法&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="180" y="720" width="530" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-42" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;span style=&quot;color: #c678dd&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #d19a66&quot;&gt;factory&lt;/span&gt; &lt;span style=&quot;color: #56b6c2&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #c678dd&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: #61afef&quot;&gt;SyncBailHookCodeFactory&lt;/span&gt;();&lt;br&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;factory.&lt;span style=&quot;color: #61afef&quot;&gt;create&lt;/span&gt;(options);&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-42" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;span style=&quot;color: #c678dd&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #d19a66&quot;&gt;factory&lt;/span&gt; &lt;span style=&quot;color: #56b6c2&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #c678dd&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: #61afef&quot;&gt;SyncBailHookCodeFactory&lt;/span&gt;();&lt;br&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;factory.&lt;span style=&quot;color: #61afef&quot;&gt;create&lt;/span&gt;(options);&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="950" y="265" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-43" value="每次需要产生钩子时，需要实例化具体工厂，并且使用create方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="aMfSWwIFYKmyxZ0qNlF1-1">
+        <mxCell id="aMfSWwIFYKmyxZ0qNlF1-43" value="每次需要产生钩子时，需要实例化具体工厂，并且使用create方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="aMfSWwIFYKmyxZ0qNlF1-1" vertex="1">
           <mxGeometry x="950" y="160" width="410" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wXiCD8Fx-ZPIYZHcPWIq" name="Page-13">
+    <mxGraphModel dx="1426" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
