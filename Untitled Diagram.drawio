@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T02:08:59.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="iLiPKH1H98t0tyHs1ICN" version="20.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-06-19T02:27:50.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_N2OmkpJKwx4MIMKEgBJ" version="20.0.1" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1884,7 +1884,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wXiCD8Fx-ZPIYZHcPWIq" name="Page-13">
-    <mxGraphModel dx="3080" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3080" dy="3021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1999,6 +1999,9 @@
         <mxCell id="Tuf4cuHKGBy5D_lkiVBu-27" value="_init 运行时执行，因为是运行时执行，所以参数vm，则为当前vue的实例" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ABB2BF;spacingLeft=5;spacingTop=6;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
           <mxGeometry width="346.74220963172803" height="54.545454545454554" as="geometry" />
         </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-69" value="设置options" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" vertex="1" parent="Tuf4cuHKGBy5D_lkiVBu-28">
+          <mxGeometry x="240" y="43" width="85" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Tuf4cuHKGBy5D_lkiVBu-29" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#ABB2BF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="499.5" as="sourcePoint" />
@@ -2108,6 +2111,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="-400" as="sourcePoint" />
             <mxPoint x="-560" y="-400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-66" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-1190" width="580" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-67" value="&lt;div style=&quot;color: rgb(171, 178, 191); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 24px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(198, 120, 221);&quot;&gt;if&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt; (options &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 182, 194);&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt; options.&lt;/span&gt;&lt;span style=&quot;color: rgb(224, 108, 117);&quot;&gt;_isComponent&lt;/span&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;) {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;//优化内部组件实例化&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;//因为动态的选项合并是相当慢的，并且没有一个&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: #5c6370;font-style: italic;&quot;&gt;//内部组件选项需要特殊处理。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;&amp;nbsp; initInternalComponent&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(vm, options)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;    } &lt;/span&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;else&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;&amp;nbsp; vm.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;$options&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;mergeOptions&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;&amp;nbsp; &amp;nbsp; resolveConstructorOptions&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(vm.&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;constructor&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;),&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;&amp;nbsp; &amp;nbsp; options &lt;/span&gt;&lt;span style=&quot;color: #56b6c2;&quot;&gt;||&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; {},&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;&amp;nbsp; &amp;nbsp; vm&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;&amp;nbsp; )&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(171, 178, 191);&quot;&gt;    }&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-1180" width="550" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-68" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0.636;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tuf4cuHKGBy5D_lkiVBu-69" target="Tuf4cuHKGBy5D_lkiVBu-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="-750" as="sourcePoint" />
+            <mxPoint x="-10" y="-800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
