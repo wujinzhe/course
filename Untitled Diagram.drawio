@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T01:38:02.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nuZuEUTB-YE74kzUPSaD" version="20.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-06-19T01:40:44.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="uaz-kFDlliKeM1HvfHVl" version="20.0.1" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2058,6 +2058,9 @@
             <mxPoint x="250" y="1190" as="sourcePoint" />
             <mxPoint x="160" y="1190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Tuf4cuHKGBy5D_lkiVBu-52" value="&lt;font color=&quot;#000000&quot;&gt;这些方法都是在初始化的时候给Vue的原型链中绑定的方法&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="230" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
