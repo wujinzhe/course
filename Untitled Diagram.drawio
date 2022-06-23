@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T14:20:20.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="tj3czT9aKfav2RJCYetA" version="20.0.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-06-23T15:15:33.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8rpw0BZIpF_1xG-ZxGJC" version="20.0.2" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1884,7 +1884,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wXiCD8Fx-ZPIYZHcPWIq" name="Page-13">
-    <mxGraphModel dx="2650" dy="4044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3193" dy="4318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2448,7 +2448,7 @@
         <mxCell id="d5bSZdtUqHNy22Pf1qq4-65" value="getter函数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=0;spacingTop=2;" vertex="1" parent="1">
           <mxGeometry x="1300" y="-1850" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d5bSZdtUqHNy22Pf1qq4-66" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 12px; line-height: 1.5;&quot;&gt;获取watcher中需要监听的属性&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=4;fontSize=12;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="d5bSZdtUqHNy22Pf1qq4-66" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 12px; line-height: 1.5;&quot;&gt;获取watcher中需要监听的属性，并且会获取到这个属性的值&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=4;fontSize=12;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="1305" y="-1820" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d5bSZdtUqHNy22Pf1qq4-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d5bSZdtUqHNy22Pf1qq4-68" target="d5bSZdtUqHNy22Pf1qq4-64">
