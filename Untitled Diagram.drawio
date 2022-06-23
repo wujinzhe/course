@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T03:22:02.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WyUz78azbtga-pENC6MB" version="20.0.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-06-23T03:30:32.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8Oise7NPOBXN32CaoBuR" version="20.0.3" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1889,7 +1889,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-2570" width="930" height="580" as="geometry" />
+          <mxGeometry x="880" y="-2570" width="860" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="SeZY3mCEqZiTPWeL8D0w-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-2240" width="820" height="235" as="geometry" />
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#ABB2BF;" vertex="1" parent="1">
           <mxGeometry x="890" y="-2495" width="820" height="235" as="geometry" />
@@ -2225,30 +2228,30 @@
           <mxGeometry x="1370" y="-2750" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-21" value="渲染Watcher" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="-2170" width="80" height="30" as="geometry" />
+          <mxGeometry x="900" y="-2230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SeZY3mCEqZiTPWeL8D0w-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="-1756" as="targetPoint" />
+            <mxPoint x="650" y="-2066" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-1813" width="130" height="113" as="geometry" />
+          <mxGeometry x="390" y="-2123" width="130" height="113" as="geometry" />
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-23" value="Vue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-1813" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="-2123" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-25" value="准备挂载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="-1790" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="-2100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="-1813" width="140" height="113" as="geometry" />
+          <mxGeometry x="650" y="-2123" width="140" height="113" as="geometry" />
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-27" value="实例化一个Watcher" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="-1870" width="120" height="30" as="geometry" />
+          <mxGeometry x="660" y="-2180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-28" value="update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="-1783" width="60" height="30" as="geometry" />
+          <mxGeometry x="660" y="-2093" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="-2465" width="260" height="180" as="geometry" />
@@ -2312,6 +2315,15 @@
         </mxCell>
         <mxCell id="SeZY3mCEqZiTPWeL8D0w-50" value="dep = new Dep()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1430" y="-2425" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SeZY3mCEqZiTPWeL8D0w-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-2190" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SeZY3mCEqZiTPWeL8D0w-55" value="getter函数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=0;spacingTop=2;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-2190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SeZY3mCEqZiTPWeL8D0w-56" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 12px; line-height: 1.5;&quot;&gt;使用data中的数据转成虚拟DOM，使用diff算法将虚拟DOM更新到页面中&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=4;fontSize=12;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-2160" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
