@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T09:31:17.465Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="s4e4VQ6bXZ6B1EiucRb0" version="20.0.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-06-23T09:34:12.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="HKeBL3JhjGI4fY7TZIzD" version="20.0.2" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2403,6 +2403,9 @@
         <mxCell id="d5bSZdtUqHNy22Pf1qq4-48" value="dep的Watcher队列中的所有Watcher都依次执行update方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1340" y="-2360" width="320" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="d5bSZdtUqHNy22Pf1qq4-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d5bSZdtUqHNy22Pf1qq4-49" target="d5bSZdtUqHNy22Pf1qq4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d5bSZdtUqHNy22Pf1qq4-49" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ABB2BF;" vertex="1" parent="1">
           <mxGeometry x="1494" y="-2075" width="160" height="135" as="geometry" />
         </mxCell>
@@ -2411,6 +2414,18 @@
         </mxCell>
         <mxCell id="d5bSZdtUqHNy22Pf1qq4-51" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 12px; line-height: 1.5;&quot;&gt;依次将Watcher添加的Watcher队列中，然后进行排序，在nextTick后，依次执行这些Watcher的run方法&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=4;fontSize=12;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="1498" y="-2040" width="151" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bSZdtUqHNy22Pf1qq4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d5bSZdtUqHNy22Pf1qq4-52" target="d5bSZdtUqHNy22Pf1qq4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bSZdtUqHNy22Pf1qq4-52" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ABB2BF;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-2075" width="160" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bSZdtUqHNy22Pf1qq4-53" value="run函数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=0;spacingTop=2;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-2075" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5bSZdtUqHNy22Pf1qq4-54" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 12px; line-height: 1.5;&quot;&gt;执行get方法&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=4;fontSize=12;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-2040" width="145" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
